@@ -42,7 +42,7 @@
     "dayjs": "^1.10.7",
     "escape-goat": "^3",
     "liquidjs": "^9.37.0",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.23"
   },
   "jest": {
     "preset": "ts-jest",
